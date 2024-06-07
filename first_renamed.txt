@@ -1,0 +1,6 @@
+This is my first file of project.
+I want to change this file now. master
+changed by Ritesh
+
+this is changed now.
+hello this is from master
